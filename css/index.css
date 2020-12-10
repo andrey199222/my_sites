@@ -17,10 +17,7 @@ p#tel{
     margin-left: 15px;
     margin-right: 15px;
     font-family:'Times New Roman';
-    margin-left: 9px;
-    margin-right: 3px;
 }
-
 header{
     background-color: #393f47;
     margin: -16px;
@@ -28,5 +25,13 @@ header{
     width: 115%;
 }
 .Slogan {
-    background: url(img/fon.jpg);
+    background-image: url(../img/fon.jpg) ;
+    background-size:cover;
+    background-position:center;
+    min-height:600px;
+    margin-left: -8px;
+    margin-right: -25px;
+    vertical-align:10px;
+    text-align: left;
+
 }
