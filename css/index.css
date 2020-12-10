@@ -9,7 +9,6 @@ p#tel{
     margin-right: 3px;
     box-sizing: border-box;
     font-family:'Times New Roman';
-
 }
 .Company{
     color: #fff;
@@ -24,14 +23,22 @@ header{
     box-sizing: border-box;
     width: 115%;
 }
-.Slogan {
-    background-image: url(../img/fon.jpg) ;
-    background-size:cover;
-    background-position:center;
-    min-height:600px;
+.menu{
+     margin-left: 9px;
+     margin-right: 3px;
+     margin: 1em;
+}
+.Baner{
+    background-size: 20%;
+    min-height:400px;
     margin-left: -8px;
     margin-right: -25px;
     vertical-align:10px;
-    text-align: left;
+    justify-content:left;
+    align-items: center; 
+}
 
+.Slogan{
+    align-items: center;
+    margin: 20px; 
 }
