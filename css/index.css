@@ -1,4 +1,26 @@
 p#tel{
-     background-color: #000000;
-      color: #fff;
+    background-color: rgb(46, 51, 58);
+    color: #fff;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    position: relative;
+    margin-left: 15px;
+    margin-right: 15px;
+    box-sizing: border-box;
+    
+}
+.Company{
+    color: #fff;
+    text-align:center;
+    position: relative;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+header{
+    background-color: #393f47;
+    margin: -16px;
+    box-sizing: border-box;
+    width: 115%;
+
 }
