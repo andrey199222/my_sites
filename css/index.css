@@ -54,8 +54,7 @@ img#logo-service {
     width:200px;
 }
 .sloganmen{
-        float: right;
-}
-.{
-    
+  position: absolute;
+  top: 73%;
+  left: 45%;
 }
