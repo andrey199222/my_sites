@@ -51,10 +51,41 @@ header{
      text-align: center;
 }
 img#logo-service {
-    width:200px;
+    width:300px;
 }
 .sloganmen{
   position: absolute;
-  top: 73%;
-  left: 45%;
+  right: 15px; 
+  top: 63%;
+  left: 17%;
+}
+.perelik-umov{
+    position: absolute;
+    top: 68%;
+    left: 17%;
+}
+.Allservice button{
+    position: absolute;
+    top: 80%;
+    left: 17%;
+}
+.work h2{
+    text-align: center;
+}
+img#logo-service{
+    width:300px;
+}
+.meetingspot h3{
+    position: relative;
+}
+.meeting p{
+    white-space: pre;
+    
+}
+
+img#office{
+     width:276px;
+     position: absolute;
+    top: 92%;
+    left: 35%;
 }
